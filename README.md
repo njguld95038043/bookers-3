@@ -5,9 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Bookers3を作りました！
 
-* System dependencies
+* 本の投稿を行えます！
 
 * Configuration
 
